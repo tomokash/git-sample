@@ -1,3 +1,2 @@
-# this is comment
-print("hello")
+print("hello123")
 print("tomoka")
